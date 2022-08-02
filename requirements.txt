@@ -18,6 +18,7 @@ discord
 asyncio
 easygui
 tasksio
+pystyle
 discum
 Cipher
 colour
